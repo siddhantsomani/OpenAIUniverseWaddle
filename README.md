@@ -1,2 +1,2 @@
 # OpenAIUniverseWaddle
-Messing with Reinforcement Learning in the OpenAI Universe
+Waddling with Reinforcement Learning in the OpenAI Universe
